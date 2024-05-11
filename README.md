@@ -42,12 +42,19 @@ To install the required Python Packages
 ```bash
   pip install requirements.txt
 ```
-Run the backend flask server 
+Run the backend flask server and make sure to replace **yourlocalpath** with your PC path
 
 ```bash
   python flask_code.py
 ```
 React UI will be running on port:3000 from where you can access the application to generate captions
 
+## To train the model
+Download the dataset from below links
+1. Flickr8k_Dataset.zip  https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+
+2. Flickr8k_text.zip https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
+
+Run the ipynb on jupyter notebook and the model will be saved on models folder on the backend directory
 
 
