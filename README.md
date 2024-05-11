@@ -42,7 +42,7 @@ To install the required Python Packages
 ```bash
   pip install requirements.txt
 ```
-Run the backend flask server and make sure to replace **yourlocalpath** with your PC path
+Run the backend flask server and make sure to replace \*\*yourlocalpath\*\* with your PC path on flask_code.py (line 21 and 22) 
 
 ```bash
   python flask_code.py
