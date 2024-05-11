@@ -8,15 +8,15 @@ A Deep learning applications that can generate captions for images using the pow
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Mubaasim/Image_Caption_Generator
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Image_Caption_Generator
 ```
-Go to the frontend directory using terminal
+Go to the frontend directory using command prompt
 
 ```bash
   cd icg-frontend
