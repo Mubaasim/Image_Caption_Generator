@@ -49,7 +49,7 @@ Run the backend flask server and make sure to replace \*\*yourlocalpath\*\* with
 ```
 React UI will be running on port:3000 from where you can access the application to generate captions
 
-## To train the model
+## To train the model yourself (Optional)
 Download the dataset from below links
 1. Flickr8k_Dataset.zip  https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
 
