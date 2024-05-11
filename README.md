@@ -47,6 +47,6 @@ React UI will be running on port:3000 from where you can access the application 
 
 ## Screenshots
 
-![App Screenshot]("https://raw.github.com/Mubaasim/Image_Caption_Generator/main/Screenshot (3424).png")
+![App Screenshot]("https://raw.github.com/Mubaasim/Image_Caption_Generator/main/Screenshot.png")
 
 
