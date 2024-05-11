@@ -47,6 +47,6 @@ React UI will be running on port:3000 from where you can access the application 
 
 ## Screenshots
 
-![App Screenshot](Screenshot (3424).png)
+![App Screenshot](/relative/path/to/Screenshot (3424).png?raw=true "Optional Title")
 
 
