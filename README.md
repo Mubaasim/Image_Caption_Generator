@@ -37,6 +37,11 @@ In a new terminal, navigate to the backend directory
 ```bash
   cd Native3
 ```
+To install the required Python Packages 
+
+```bash
+  pip install requirements.txt
+```
 Run the backend flask server 
 
 ```bash
