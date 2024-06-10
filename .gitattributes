@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.es linguist-language=JS
+*.js linguist-detectable
+icg-frontend/src -linguist-detectable
